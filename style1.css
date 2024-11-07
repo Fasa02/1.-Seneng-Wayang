@@ -389,6 +389,7 @@ header.sticky .navigation li a:hover {
     text-align: left;
     margin: 0% 15%;
     margin-top: 3%;
+    justify-content: center;
 }
 
 .title .ttl{
